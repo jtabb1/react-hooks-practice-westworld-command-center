@@ -1,3 +1,4 @@
+/* These files are copied from the official solution. */
 import React, { useState, useEffect } from "react";
 import { Segment } from "semantic-ui-react";
 import WestworldMap from "./WestworldMap";
